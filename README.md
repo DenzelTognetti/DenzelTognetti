@@ -1,5 +1,5 @@
 <p align="center">
-  <a><img width="50%" alt="Olá! Eu sou o Denzel" src="/assets/gh-readme-header.png" /></a>
+  <a><img margin="0" padding="0" width="50%" alt="Olá! Eu sou o Denzel" src="/assets/gh-readme-header.png" /></a>
 </p>
 <p>
 Sou bacharel em Direito e atualmente atuo como analista jurídico, mas estou em transição de carreira para a área de <strong>desenvolvimento e programação</strong>, onde encontrei minha verdadeira paixão profissional.
