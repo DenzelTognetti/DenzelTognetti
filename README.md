@@ -1,5 +1,5 @@
 <p align="center">
-  <a><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="/assets/gh-readme-header.png" /></a>
+  <a><img width="20%" alt="Olá! Eu sou o Denzel" src="/assets/gh-readme-header.png" /></a>
 </p>
 
 <h2>👋Seja bem-vindo ao meu GitHub</h2>
