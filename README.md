@@ -1,8 +1,6 @@
 <p align="center">
-  <a><img width="20%" alt="Olá! Eu sou o Denzel" src="/assets/gh-readme-header.png" /></a>
+  <a><img width="50%" alt="Olá! Eu sou o Denzel" src="/assets/gh-readme-header.png" /></a>
 </p>
-
-<h2>👋Seja bem-vindo ao meu GitHub</h2>
 <p>
 Sou bacharel em Direito e atualmente atuo como analista jurídico, mas estou em transição de carreira para a área de <strong>desenvolvimento e programação</strong>, onde encontrei minha verdadeira paixão profissional.
 </p>
